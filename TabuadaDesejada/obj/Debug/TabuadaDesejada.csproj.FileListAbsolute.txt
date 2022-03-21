@@ -1,0 +1,14 @@
+C:\Users\Lab_03_alu_18\Desktop\TabuadaDesejada\TabuadaDesejada\bin\Debug\TabuadaDesejada.exe.config
+C:\Users\Lab_03_alu_18\Desktop\TabuadaDesejada\TabuadaDesejada\bin\Debug\TabuadaDesejada.exe
+C:\Users\Lab_03_alu_18\Desktop\TabuadaDesejada\TabuadaDesejada\bin\Debug\TabuadaDesejada.pdb
+C:\Users\Lab_03_alu_18\Desktop\TabuadaDesejada\TabuadaDesejada\obj\Debug\TabuadaDesejada.csprojAssemblyReference.cache
+C:\Users\Lab_03_alu_18\Desktop\TabuadaDesejada\TabuadaDesejada\obj\Debug\TabuadaDesejada.csproj.CoreCompileInputs.cache
+C:\Users\Lab_03_alu_18\Desktop\TabuadaDesejada\TabuadaDesejada\obj\Debug\TabuadaDesejada.exe
+C:\Users\Lab_03_alu_18\Desktop\TabuadaDesejada\TabuadaDesejada\obj\Debug\TabuadaDesejada.pdb
+C:\Users\Leo\Documents\Repositorios\TabuadaDesejada\TabuadaDesejada\bin\Debug\TabuadaDesejada.exe.config
+C:\Users\Leo\Documents\Repositorios\TabuadaDesejada\TabuadaDesejada\bin\Debug\TabuadaDesejada.exe
+C:\Users\Leo\Documents\Repositorios\TabuadaDesejada\TabuadaDesejada\bin\Debug\TabuadaDesejada.pdb
+C:\Users\Leo\Documents\Repositorios\TabuadaDesejada\TabuadaDesejada\obj\Debug\TabuadaDesejada.csproj.AssemblyReference.cache
+C:\Users\Leo\Documents\Repositorios\TabuadaDesejada\TabuadaDesejada\obj\Debug\TabuadaDesejada.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Documents\Repositorios\TabuadaDesejada\TabuadaDesejada\obj\Debug\TabuadaDesejada.exe
+C:\Users\Leo\Documents\Repositorios\TabuadaDesejada\TabuadaDesejada\obj\Debug\TabuadaDesejada.pdb
